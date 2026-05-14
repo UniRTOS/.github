@@ -1,3 +1,3 @@
 ## Welcome to UniRTOS
 
-UniRTOS is a unified common codebase at its core, it builds a standardized development platform across modules. This framework is deeply compatible with Quectel's full range of communication modules, including 5G/4G cellular modules, automotive pre-installed modules, and smart modules.
+UniRTOS is a unified embedded development kit developed by Quectel for its full range of cellular communication modules. It provides consistent APIs and component architecture, supports cross-platform development and efficient porting, and integrates rich middleware, drivers, protocol stacks, and application examples to accelerate the development and deployment of intelligent embedded devices.
