@@ -1,11 +1,19 @@
 ## Welcome to UniRTOS's site on GitHub
 
-<div align="left" style="display: flex; align-items: center;">
-  <img src="UniRTOS_logo.png" width="40" style="margin-right:10px;">
-  <span style="font-size:26px; font-weight:600; color:#d32f2f;">
-    UniRTOS
-  </span>
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="UniRTOS_logo.png" width="40">
+    </td>
+    <td>
+      <b style="font-size:26px; color:#d32f2f;">
+        UniRTOS
+      </b>
+    </td>
+  </tr>
+</table>
+
 
 UniRTOS is a unified embedded development kit developed by Quectel for its full range of cellular communication modules. It provides consistent APIs and component architecture, supports cross-platform development and efficient porting, and integrates rich middleware, drivers, protocol stacks, and application examples to accelerate the development and deployment of intelligent embedded devices.
 
